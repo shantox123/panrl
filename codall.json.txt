@@ -28,5 +28,11 @@
 "LandingHackrep": "00 00 00 00 00 00 FF 41 00 00 00 00 00 00 00 00 00 00 80 BF 00 00 00 00 00 00 80 BF 00 00 00 00 00 00 00 00 00 00 80 3F 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 3F 00 00 00 00 00 00 00 00 00 00 80 BF 00 00 80 7F 00 00 80 7F 00 00 80 7F 00 00 80 FF",
 "speedscn": "",
 "speedrep": "",
+"2xscopescn": "",
+"2xscoperep": "",
+"4xscopescn": "",
+"4xscoperep":"",
+"aimfovscn": "",
+"aimfovrep": "",
 "message": 22
 }
